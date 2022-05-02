@@ -1,0 +1,16 @@
+.news{
+    display: flex;
+    height: 250px;
+    border: 1px solid ;
+    padding: 15px;
+}
+
+.imageClass{
+    width:25%;
+    height: 100%;
+    cursor: pointer;
+}
+.titleDiv{
+    padding:10px;
+    cursor: pointer;
+}

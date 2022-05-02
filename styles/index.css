@@ -1,0 +1,25 @@
+#body{
+    display:flex;
+    margin-top: 50px;
+}
+#sidebar{
+    width:20%;
+    padding: 10px;
+    height: 300px;
+    border: 1px solid black; 
+}
+#results{
+    width:80%;
+    /* height: 500px;
+    border: 1px solid blue; */
+    /* padding: 10px; */
+}
+#sidebar h4{
+    /* border: 1px red solid; */
+    padding: 5px;
+    background-color: rgb(87, 194, 158);
+}
+#sidebar h4:hover{
+    cursor: pointer;
+    color: blue;
+}
